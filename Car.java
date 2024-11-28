@@ -1,5 +1,3 @@
-package  lab1;
-
 public class Car{
     private String carName;
     private String color;
