@@ -1,5 +1,3 @@
-import lab1.Car;
-
 public class  MyCarClass{
     public static void main(String[] args) {
         Car car1 = new Car("Toyota", "red", 200, 1345);
